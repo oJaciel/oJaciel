@@ -1,10 +1,6 @@
 <h1 align="center">Jaciel Henrique Barichello</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas</h3>
 
-- 🌱 Atualmente estou estudando **Flutter**
-
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/oJaciel?tab=repositories](https://github.com/oJaciel?tab=repositories)
-
 - 📫 Contato **jacielhbarichello@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
