@@ -1,5 +1,5 @@
 <h1 align="center">Jaciel Henrique Barichello</h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas</h3>
+<h3 align="center">Programador Mobile (Flutter) | Estudante de Análise e Desenvolvimento de Sistemas</h3>
 
 - 📫 Contato **jacielhbarichello@gmail.com**
 
