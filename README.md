@@ -1,14 +1,16 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=default"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=default"  />
 </div>
 
 ###
 
-<img align="left" height="160" src="https://avatars.githubusercontent.com/u/149974137?v=4"  />
+<div align="center">
+  <img height="200" src="https://avatars.githubusercontent.com/u/149974137?v=4"  />
+</div>
 
 ###
 
-<h3 align="center">Jaciel Henrique Barichello</h3>
+<h2 align="center">Jaciel Henrique Barichello</h2>
 
 ###
 
@@ -27,7 +29,9 @@
 
 ###
 
-<h4 align="left">🛠 Main Languages and Tools</h4>
+<br clear="both">
+
+<h3 align="left">🛠 Main Languages and Tools</h3>
 
 ###
 
@@ -45,7 +49,7 @@
 
 ###
 
-<h5 align="left">Other Languages and Tools</h5>
+<h4 align="left">Other Languages and Tools</h4>
 
 ###
 
