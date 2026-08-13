@@ -5,12 +5,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jaciel+Barichello+%F0%9F%91%8B;Mobile+%7C+Flutter+Developer;Building+amazing+apps+%F0%9F%93%B1" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<div align="center">
   <img height="200" src="https://avatars.githubusercontent.com/u/149974137?v=4" style="border-radius:50%; border:4px solid #58A6FF" />
 </div>
 
@@ -36,10 +30,10 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=jacielbarichello&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" height="180" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=oJaciel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" height="180" alt="GitHub Stats" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jacielbarichello&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="180" alt="Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=oJaciel&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="180" alt="Streak Stats" />
   </a>
 </div>
 
