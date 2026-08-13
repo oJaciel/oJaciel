@@ -17,12 +17,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oJaciel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180" alt="Top Languages" />
-</div>
-
-<br/>
-
 <h2 align="center">🛠 Technologies & Tools</h2>
 
 <h3 align="center">Main Stack</h3>
