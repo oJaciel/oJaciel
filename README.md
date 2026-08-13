@@ -18,28 +18,6 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.instagram.com/jaciel.barichello/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/jaciel-henrique-barichello-a038a1285/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=oJaciel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" height="180" alt="GitHub Stats" />
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=oJaciel&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="180" alt="Streak Stats" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oJaciel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180" alt="Top Languages" />
 </div>
 
